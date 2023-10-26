@@ -1,0 +1,19 @@
+html,
+body,
+#container {
+  height: 600px;
+  min-width: 600px;
+  max-width: 100%;
+  margin: 0;
+}
+.text-container {
+  position: fixed;
+  top: 500px;
+  left: 400px;
+}
+
+.loading {
+  margin-top: 10em;
+  text-align: center;
+  color: gray;
+}
